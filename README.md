@@ -1,11 +1,33 @@
 # challenge-sprint1-EDGE-2024
 
 <h3>Integrantes do grupo:</h3>
+<table>
+  <tr>
+    <th> Nome </th>
+    <th> RM </th>
+  </tr>
+  <tr>
+    <td> Gabriel Belo </td>
+    <td> 551669 </td>
+  </tr>
+  <tr>
+    <td>Matheus Taylor</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> Gabriel Galerani </td>
+    <td> 557421 </td>
+  </tr>
+  <tr>
+    <td>Henrique</td>
+    <td></td>
+  </tr>
+</table>
 
 <h3>Vídeo do protótipo:</h3>
 
 <h3>Imagem do protótipo:</h3>
-"https://github.com/gabriel-belo/challenge-sprint1-EDGE-2024/assets/126474319/448999cc-c228-49b1-8779-eb7f66934fd8"
+<img src="https://github.com/gabriel-belo/challenge-sprint1-EDGE-2024/assets/126474319/448999cc-c228-49b1-8779-eb7f66934fd8">
 
 <h3>Materiais para o protótipo:</h3>
 <ul>
