@@ -29,6 +29,9 @@
 <h3>Imagem do protótipo:</h3>
 <img src="https://github.com/gabriel-belo/challenge-sprint1-EDGE-2024/assets/126474319/448999cc-c228-49b1-8779-eb7f66934fd8">
 
+<h3>Link para o protótipo:</h3>
+<a href="https://www.tinkercad.com/things/g8UaBXyX86Q-challenge-sprint1-2024-edge")
+
 <h3>Materiais para o protótipo:</h3>
 <ul>
   <li>Arduino Uno</li>
