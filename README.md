@@ -25,6 +25,7 @@
 </table>
 
 <h3>Vídeo do protótipo:</h3>
+https://youtu.be/7Hzm6xRfa8E
 
 <h3>Imagem do protótipo:</h3>
 <img src="https://github.com/gabriel-belo/challenge-sprint1-EDGE-2024/assets/126474319/448999cc-c228-49b1-8779-eb7f66934fd8">
